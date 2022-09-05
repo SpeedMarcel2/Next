@@ -135,72 +135,40 @@ const Vision = () => {
         <br />
 
         <Text>
-          Our Community Goal is simple. We want a strong Community of people
-          that values hard work, honesty, and loyalty.
+        We pursue being pioneers in the World of Web 3, creating a platform for 
+        digital artists to share their art and another venue for Open discussions, with a strong Community as a Foundation.
         </Text>
 
         <Text>
-          We want a Community of people believing in us, our vision, our Mindset
-          to bring this Project as far as possible, this isn‘t Just a
-          extraordinary new NFT Project, this is Just the start of something
-          much bigger to Come. And you can be Part of That.
+          But now after the rise and fall of many Generations, the curtain has cracked. A crack in its perfect Facade,
+          that those who control the World want to close.
+          But he is aware, it’s that exact moment he’s been waiting for multiple Millennials. 
+          How can he miss the  Opportunity that is the drive for all the pain and suffering 
+          he’s been going through?
+
+          But he knows he can’t do it alone. He needs a capable and strong group of People.
+          To achieve that goal he developed a strategy encompassing different phases.
+
+          And you can be Part of That.
         </Text>
 
-        <Text>What makes us different from "everybody“ else? </Text>
+        <Text>A platform for digital artists</Text>
         <br />
 
         <Text>
-          What we will provide is absolute transparency. We will mention
-          everything related to the project that doesn’t conflict with legal
-          issues. Every 3-5 Days, we offer an update on our progress. But one
-          thing must be made clear, we aren’t perfect, and mistakes will happen.
-          Some will be smaller and some bigger. We can only promise that we will
-          improve and become better.
+          We believe on an artistic level, NFT offers a lot of potential,
+          especially its future potential is tremendous. Digital Art has given the notion
+          of “Art” a new meaning and almost a new definition. And by creating a platform 
+          for the Space that is supportive of contemporary artists,
+          articularly the smaller ones with neither Capital nor Attention, 
+          we can lay a foundation for future Generations.
         </Text>
         <br />
+        
         <Text>
-          We will showcase you everything around the Progress of the project to
-          you from the moment we launch our NFT, because this is Just the Start
-          of an Odessey.
-        </Text>
-        <br />
-        <Text>
-          The Goal is to be Patient. Just Hodl and Trust the Process. We’re
-          together on this Journey.
-        </Text>
-        <Text>
-          At the same time, we would like to introduce a system that allows you
-          to participate and get partial Ownership of the project. But it's
-          still in development (The Details will be listed Later on), and we
-          want to use your Feedback to optimize it.
-        </Text>
-        <br />
-        <Text>
-          This project has two main Goals: <br />
-          <ol>
-            <li>Raising Funds for our main Project</li>
-
-            <li>To start to test our vote-system</li>
-          </ol>
-        </Text>
-        <br />
-        <Text>
-          But no worry, there is also something in for you: <br />
-          <ul>
-            <li>
-              Insights on our Future moves, what we will do after Launching our
-              Main Collection, what the small steps are, and how you can be
-              involved
-            </li>
-            <li>
-              Access to our Discord, where we give way more insights into the
-              projects, in a 2-3 Days rhythm, updates to our Project
-            </li>
-            <li>You get a 65% Discount on our main NFT-Collection</li>
-            <li>
-              We will give all of you some deeper insights into the Art-works
-            </li>
-          </ul>
+          A platform for open and honest Discussions without fearing censorship
+          (Topics range from global economy to mental health). 
+          This Just the Start of an Odessey.
         </Text>
       </Box>
     </Container>

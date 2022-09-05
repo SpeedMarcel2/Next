@@ -132,17 +132,17 @@ const About = () => {
         </Left>
         <Right>
             <Title data-scroll data-scroll-speed="-1">About Us</Title>
-            <Text >To be honest, we're just two ordinary guys with an idea and the will to create something
-extraordinary. First, we thought, “should we be honest that we’re no *experts*? Because
-everyone is talking about the need for great "Experts“ and professionals on the Team, and
-we're just two simple Dudes with a Dream with no track record, why should people believe in
-us?”.</Text>
-<br />
+            <Text >
+              We’re 2 young Men with the Dream and Desire to take control of our Destiny, 
+              having the choice to decide who and where we want to be in our Life. 
+              For us, Web3 (NFT, Blockchain, etc.) symbolizes the Opportunity we’ve constantly been looking for.
+              The Opportunity to create our own reality, to not only dream but to make these dreams reality.</Text>
+              <br />
 
 <Text>
-Then let me tell you, why not? Why won‘t you give 2 Guys the Chance to realize Something
-that you could also be Part of and make it a BIG Succes, so That Even you can profite from
-it?
+We might be young, inexperienced, have no track record, but one thing is for sure, 
+we have nothing to hide and own what we're about and who we are. 
+No matter if you are with us or against us our rise is Unstoppable.
 </Text>
 
         </Right>

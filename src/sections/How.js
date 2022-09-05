@@ -163,6 +163,12 @@ const How = () => {
             </Text> <br />
             <Text>
               The whole project is only realizable if both side commit themselves to the vision of the project.
+              If you share his Mentality and are willing to educate yourself, grow, learn, develop and improve, 
+              he invites you to join his Network to become part of the foundation that will shape the Future and upcoming Generations.
+            
+              NFT, Blockchain, and Web3 aren’t just simple technologies, not only are they the Foundation for the next generations 
+              but also the greatest opportunity for the regular Man to escape the Boundaries of living an average Life,
+              to create their own Reality.
             </Text>
           </CardComponent>
 
@@ -173,7 +179,11 @@ const How = () => {
               <img src={img2} alt="unknown men" />
             </ImgContainer>
             <Text>
-              The odessey begins.
+              The Odessey begins.
+              
+              His Message to the World:
+              Those who plant the Seeds early are those that get rewarded the most. 
+              The Future is in your Hands, you have the opportunities. Success or failure you decide!
             </Text> <br />
             <Text>
               Pathing the way for the average to become exceptional.

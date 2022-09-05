@@ -132,19 +132,27 @@ const RoadMap = () => {
       <Box id="fixed-target" >
         <Title>Roadmap</Title>
         <Text>
-          This Roadmap is only a broad overview. We will go into more details in
-          our Discord.
+        The goal of Phase 1 is to build the Seed, by gathering as many people as possible passionate about what Web3-space offers. 
+        And giving them the opportunity to educate themselves and build awareness about the importance and significance Web3 holds. 
+        To give them the Key necessary to transform their Lives.
         </Text>
         <br />
         <Text >
-          Open our Discord for NFT-holders. The reason why it's only for holders is:
+        Through Phase 1 he wants to gather People who are interested in the opportunities Web 3 offers, 
+        like the blockchain, NFTs, Smart contracts and even giving NFT-Artists a Platform 
+        where they get the recognition they deserve. 
+        He wants to create a Club where all these people come together to:
+
           <br /> <br />
-          &nbsp;&nbsp; &nbsp;&nbsp;1. because of the many rug pulls in the space currently. <br />
-          &nbsp;&nbsp; &nbsp;&nbsp;2. we only want people in our Discord who believe in our
-          Vision and are willing to invest in us through the purchase of our NFT.
-          <br /> <br />
-          Initiating our vote system (which offers you profits by successfully
-          solving a task) Preparing the Launch of our Main NFT-Collection.
+          &nbsp;&nbsp; &nbsp;&nbsp;1. Discuss their ideas and create new ones <br />
+          &nbsp;&nbsp; &nbsp;&nbsp;2. Giving those with an Idea a possible way to realize it
+          &nbsp;&nbsp; &nbsp;&nbsp;3. Giving those with a Project that’s already working, a Platform to present it
+          
+          - And developing and looking for new opportunities and niches that have enormous potential but nobody knows them. 
+          - Talking and Discussing about actual problems that concerns everyone and finding a Solution
+
+          This is a long journey that requires time and effort 
+          but provides those that go through it an opportunity to change their own Destiny.
         </Text>
       </Box>
     </Container>

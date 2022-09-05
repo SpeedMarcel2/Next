@@ -110,38 +110,9 @@ const Start = () => {
         Start
           </Title>
           <Text>
-            This NFT is just the first step on our Journey. And has only three
-            main uses:
-          </Text>
-          <br />
-
-          <Text>
-            &nbsp;&nbsp;1. Raising capital to realize the first part of the
-            Journey. <br />
-            &nbsp;&nbsp;2. building the Core of our Community.
-            <br />
-            &nbsp;&nbsp;3. Rewarding those that believe in us so early on this
-            Long Journey.
-            <br />
-          </Text>
-
-          <br />
-
-          <Text>
-            The Mint price is 0.06 ETH. <br />
-            The Mint date is Saturday, the 06/18/2022 CET/Timezone.
-          </Text>
-          <br />
-          <Title >why?</Title>
-
-          <Text>
-            Our Goal in the NFT-marketplace isn’t a Metaverse or Merch etc. (At
-            least at yet). It’s the opportunity to realize one of our biggest
-            dreams. We know that the current NFT-market is lacking with
-            countless scams, rug pulls, and false promises everywhere. Despite
-            that, we still believe that NFT is one of the most significant
-            opportunities nowadays for ordinary people to become extraordinary
-            and everyone can be Part of it.
+          A World clouded by Darkness, undurchdringlich für das Licht, hidden behind a curtain of Illusions. 
+          A curtain people see as a reality, the greatest Lie in the history of Humankind, 
+          operating for already thousands of years.
           </Text>
         </Right>
         <Left data-scroll data-scroll-direction="horizontal">
