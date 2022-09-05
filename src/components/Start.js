@@ -110,7 +110,7 @@ const Start = () => {
         Start
           </Title>
           <Text>
-          A World clouded by Darkness, undurchdringlich für das Licht, hidden behind a curtain of Illusions. 
+          A World clouded by Darkness, impenetrable by the Light, hidden behind a curtain of Illusions. 
           A curtain people see as a reality, the greatest Lie in the history of Humankind, 
           operating for already thousands of years.
           </Text>
