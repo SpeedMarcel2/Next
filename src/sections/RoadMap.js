@@ -141,8 +141,8 @@ const RoadMap = () => {
         Using Twitter through spaces, retweets and posts to give smaller artists not only a platform but also an Audience,
         so they can go more in depth about their Art. 
 
-        <Title>Web3 Education</Title>
-
+        Web3 Education
+        
         To build the necessary knowledge about Web3, we decided to use Discord.
         We won't teach you, because we aren't some Web3 pros, neither are we equipped or qualified to teach you. But we developed an alternative, a concept that emphasizes collective learning and educating ourselves together as a group. Meaning, we learn together with you, not in a student/teacher relationship but more like a group of colleagues working on a project. 
 
@@ -151,7 +151,7 @@ const RoadMap = () => {
 
         <br />
 
-        <Title>Strengthening the Network</Title>
+        Strengthening the Network
         
         And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
 
