@@ -141,17 +141,17 @@ const RoadMap = () => {
         Using Twitter through spaces, retweets and posts to give smaller artists not only a platform but also an Audience,
         so they can go more in depth about their Art.<Text>
 
-        Web3 Education
+        </Text>Web3 Education
 
-        </Text>To build the necessary knowledge about Web3, we decided to use Discord.
+        To build the necessary knowledge about Web3, we decided to use Discord.
         We won't teach you, because we aren't some Web3 pros, neither are we equipped or qualified to teach you. But we developed an alternative, a concept that emphasizes collective learning and educating ourselves together as a group. Meaning, we learn together with you, not in a student/teacher relationship but more like a group of colleagues working on a project. 
 
         We call it the ant-hive concept (a pretty cool name by the way). 
         How exactly does it work? - to know more about it and its function, check out our Twitter and follow us for more.<Text>
 
-        Strengthening the Network
+        </Text>Strengthening the Network
         
-        </Text>And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
+        And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
 
        - Up to date
        - Build a Network of great people
