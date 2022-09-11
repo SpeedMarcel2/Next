@@ -131,7 +131,7 @@ const Vision = () => {
       >
         <Title>Vision</Title>
 
-        <SubTitle>Why?</SubTitle>
+        Why?
         <br />
 
         <Text>
@@ -166,7 +166,7 @@ const Vision = () => {
         <br />
         
         
-        <SubTitle>A platform for digital artists</SubTitle>
+        <Title>A platform for digital artists</Title>
         
         
         <Text>
