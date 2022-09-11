@@ -4,7 +4,7 @@ import img1 from "../assets/roadmap.jpg";
 
 const Container = styled.div`
   width: 100vw;
-  min-height: 200vh;
+  min-height: 150vh;
 
   display: flex;
   flex-direction: column;
@@ -81,6 +81,8 @@ const ImgContainer = styled.div`
   img {
     width: 100%;
     height: auto;
+    height: 150vh;
+
     object-position: bottom;
     object-fit: cover;
     position: fixed;
@@ -132,28 +134,37 @@ const RoadMap = () => {
       <Box id="fixed-target" >
         <Title>Roadmap</Title>
         <Text>
-        The goal of Phase 1 is to build the Seed, by gathering as many people as possible passionate about what Web3-space offers. 
-        And giving them the opportunity to educate themselves and build awareness about the importance and significance Web3 holds. 
-        To give them the Key necessary to transform their Lives.
+        Building foundational knowledge about Web3, that is necessary to develop creative and innovative ideas able to impact or change the Web3 era. 
+        Forging the core of our Network by and building familiarity between our members. 
+        By developing and creating the community culture (Principles, Values and Standards). 
+        
+        Using Twitter through spaces, retweets and posts to give smaller artists not only a platform but also an Audience,
+        so they can go more in depth about their Art. 
+
+        <SubTitle>Web3 Education</SubTitle>
+
+        To build the necessary knowledge about Web3, we decided to use Discord.
+        We won't teach you, because we aren't some Web3 pros, neither are we equipped or qualified to teach you. But we developed an alternative, a concept that emphasizes collective learning and educating ourselves together as a group. Meaning, we learn together with you, not in a student/teacher relationship but more like a group of colleagues working on a project. 
+
+        We call it the ant-hive concept (a pretty cool name by the way). 
+        How exactly does it work? - to know more about it and its function, check out our Twitter and follow us for more. 
+
+        <br />
+
+        <SubTitle>Strengthening the Network</SubTitle>
+        
+        And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
+
+       - Up to date
+       - Build a Network of great people
+       - Being able to support each other beyond being solely focused on NFT to allow relationships to form, that can potentially hold for a lifetime
+
+         On the other hand, we want to provide Digital-Artists with a platform, 
+         that helps them to spread their name and which offers them a space where they can go more in Depth about their Art. 
+        
         </Text>
         <br />
-        <Text >
-        Through Phase 1 he wants to gather People who are interested in the opportunities Web 3 offers, 
-        like the blockchain, NFTs, Smart contracts and even giving NFT-Artists a Platform 
-        where they get the recognition they deserve. 
-        He wants to create a Club where all these people come together to:
 
-          <br /> <br />
-          &nbsp;&nbsp; &nbsp;&nbsp;1. Discuss their ideas and create new ones <br />
-          &nbsp;&nbsp; &nbsp;&nbsp;2. Giving those with an Idea a possible way to realize it
-          &nbsp;&nbsp; &nbsp;&nbsp;3. Giving those with a Project that’s already working, a Platform to present it
-          
-          - And developing and looking for new opportunities and niches that have enormous potential but nobody knows them. 
-          - Talking and Discussing about actual problems that concerns everyone and finding a Solution
-
-          This is a long journey that requires time and effort 
-          but provides those that go through it an opportunity to change their own Destiny.
-        </Text>
       </Box>
     </Container>
   );

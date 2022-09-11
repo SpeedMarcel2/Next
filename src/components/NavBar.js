@@ -144,6 +144,27 @@ const HamburgerMenu = styled.button`
   }
 `;
 
+const Btn = styled.a`
+position: fixed;
+top: 1rem;
+  left: 2rem;
+  z-index: 5;
+
+background-color: ${props => props.theme.body};
+padding: 1rem;
+border: 1px solid ${props => `rgba(${props.theme.textRgba},0.5)`};
+
+@media (max-width: 64em){
+  top: 5rem;
+  left: -5rem;
+}
+@media (max-width: 48em){
+  position: relative;
+  top: 0;
+  left: 0;
+}
+`
+
 const NavBar = ({ scroll }) => {
   // const { scroll } = useLocomotiveScroll();
 
@@ -168,9 +189,10 @@ const NavBar = ({ scroll }) => {
     <NavContainer  click={click} data-scroll data-scroll-section>
     <HamburgerMenuContainer onClick={() => handleMenuClick()}>
     <HamburgerMenu  click={click}  />
-
+   
     </HamburgerMenuContainer>
       <Nav click={click}>
+      
         <a href="/#" onClick={() => handleClick("start")}>
           Start
         </a>
@@ -187,6 +209,9 @@ const NavBar = ({ scroll }) => {
         <a href="/#" onClick={() => handleClick("contact")}>
           Contact
         </a>
+        <Btn  href="https://ukm.pages.dev/" target={"_blank"} >
+          Mint Now
+        </Btn>
       </Nav>
     </NavContainer>
   );

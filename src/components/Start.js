@@ -110,10 +110,11 @@ const Start = () => {
         Start
           </Title>
           <Text>
-          A World clouded by Darkness, impenetrable by the Light, hidden behind a curtain of Illusions. 
-          A curtain people see as a reality, the greatest Lie in the history of Humankind, 
-          operating for already thousands of years.
-          </Text>
+          This is Just the start of "something" much bigger to Come. And you can be Part of That.
+          Web 3 offers a new way of working and communicating with a big group of people. 
+          Our opinion is that the Community is the ultimate Foundation for new, innovative, and extraordinary ideas. 
+          That’s why the community has an indispensable place on our journey toward a new Future.ble by the Light, hidden behind a curtain of Illusions. 
+        </Text>
         </Right>
         <Left data-scroll data-scroll-direction="horizontal">
           <img
