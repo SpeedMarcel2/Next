@@ -181,12 +181,13 @@ const How = () => {
             <Text>
               The Odessey begins.
               
-              His Message to the World:
-              Those who plant the Seeds early are those that get rewarded the most. 
-              The Future is in your Hands, you have the opportunities. Success or failure you decide!
+              Our Mojo: 
+              "Those who plant the Seeds early are those that get rewarded the most. 
+              The Future is in your Hands, you have the opportunities.
             </Text> <br />
             <Text>
               Pathing the way for the average to become exceptional.
+              Succes or failure, you decide!
             </Text>
           </CardComponent>
         </Right>

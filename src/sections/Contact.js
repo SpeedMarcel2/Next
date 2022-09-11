@@ -151,6 +151,21 @@ align-items: center;
 }
 
 `
+const Btn = styled.a`
+
+
+background-color: ${props => props.theme.body};
+padding: 1rem 2rem;
+border: 1px solid ${props => `rgba(${props.theme.textRgba},0.5)`};
+
+color: inherit;
+text-decoration: none;
+@media (max-width: 48em){
+  position: relative;
+  top: 0;
+  left: 0;
+}
+`
 
 const Contact = () => {
   return (
@@ -161,23 +176,29 @@ const Contact = () => {
         </Left>
         <Right data-scroll data-scroll-speed="2" data-scroll-direction="horizontal">
             <Title>Contact</Title>
-            <Text>Unknown Man
+            <Text>Unknown Men Mail: info@unknownmennft.com
             <br />
             <br />
 
             <a href="https://twitter.com/_Odysssey_"  target={"_blank"} rel="noreferrer">
             <img src={twitter} alt="Unknown Men NFT" />
 
+            <a href="https://raritysniper.com/nft-drops-calendar">Odessey of the UnknownMen</a>
+
             </a>
             &nbsp;
             &nbsp;
-            <a href="mailto:egghead.swangin@unknownmennft.com"  target={"_blank"} rel="noreferrer" data-scroll data-scroll-speed="4" >
+            <a href="mailto:info@unknownmennft.com"  target={"_blank"} rel="noreferrer" data-scroll data-scroll-speed="4" >
             <img src={email} alt="Unknown Men NFT" />
 
             </a>
             
-            </Text>
+            </Text> <br />
+            
 
+            <Btn  href="https://ukm.pages.dev/" target={"_blank"} >
+          Mint Now
+        </Btn>
         </Right>
         </Box>
         <Footer >

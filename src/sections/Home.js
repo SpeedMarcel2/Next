@@ -104,13 +104,13 @@ const Home = () => {
   return (
     <Container data-scroll-section id="home">
    <Title data-scroll data-scroll-speed={-4} >
-        Unknown Man
+        Unknown Men
     </Title>
         <ImgContainer>
-        <img src={img1} alt="Unknown Man" />
+        <img src={img1} alt="Unknown Men" />
             
-            <img  src={img2} alt="Unknown Man" />
-            <img  src={img3} alt="Unknown Man" />
+            <img  src={img2} alt="Unknown Men" />
+            <img  src={img3} alt="Unknown Men" />
         </ImgContainer>
     </Container>
   )

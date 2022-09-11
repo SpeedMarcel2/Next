@@ -5,7 +5,7 @@ import img1 from "../assets/boat-purple.jpg";
 
 const Container = styled.div`
   width: 80vw;
-  min-height: 100vh;
+  min-height: 150vh;
   height: auto;
   margin: 0 auto;
   overflow: hidden;
@@ -29,13 +29,13 @@ const Container = styled.div`
   @media (max-width: 48em) {
     width: 100vw;
     padding: 0;
-    min-height: 150vh;
+    min-height: 200vh;
 
 
   }
 
   @media (max-width: 25em) {
-    min-height: 200vh;
+    min-height: 250vh;
 
   }
 
@@ -87,7 +87,7 @@ const Box = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  overflow: auto;
+  overflow: hidden;
 
   @media (max-width: 25em) {
     min-height: 100vh;
@@ -131,45 +131,61 @@ const Vision = () => {
       >
         <Title>Vision</Title>
 
-        <SubTitle>Community Goals</SubTitle>
+        <SubTitle>Why?</SubTitle>
         <br />
 
         <Text>
-        We pursue being pioneers in the World of Web 3, creating a platform for 
-        digital artists to share their art and another venue for Open discussions, with a strong Community as a Foundation.
+        We always wanted to be able to impact the World. On a level where our names will be written in History books even multiple millennia later. 
+        Leaving a legacy behind, that will provide humanity, our friends, and relatives with the Foundation for a bright Future. 
+        It sounds childish but it’s just something that motivates us every single day to improve and to keep moving forward.
+        
+        This Goal is incredibly Huge, to the point of being almost impossible. And to achieve that, it does not only require multiple steps in a specific sequence but also certain conditions to be met. 
+        But the current time we live in and with opportunities like Web3, make us one step closer to our Destination. 
+        The first step on this journey is to make full use of this Opportunity, 
+        by using our NFT to build a strong network of competent and capable people in various Areas of Life (financially, emotionally and mentally) and to create a breeding ground for exceptional future Web3 businesses 
+        able to be foundational pillars of the next Generation. and another venue for Open discussions, 
+        
+        But this is only achievable through a series of multiple stages and the first stage is to build the core of our Network, 
+        knowledge about the Web3 Space, and (that's more of a fun Goal) creating a platform for artists in the Web3 Space, that gives them the recognition they deserve. 
+
+        This is why the community has an indispensable place on our upcoming journey towards a new Future.
         </Text>
-
-        <Text>
-          But now after the rise and fall of many Generations, the curtain has cracked. A crack in its perfect Facade,
-          that those who control the World want to close.
-          But he is aware, it’s that exact moment he’s been waiting for multiple Millennials. 
-          How can he miss the  Opportunity that is the drive for all the pain and suffering 
-          he’s been going through?
-
-          But he knows he can’t do it alone. He needs a capable and strong group of People.
-          To achieve that goal he developed a strategy encompassing different phases.
-
-          And you can be Part of That.
-        </Text>
-
-        <Text>A platform for digital artists</Text>
-        <br />
-
-        <Text>
-          We believe on an artistic level, NFT offers a lot of potential,
-          especially its future potential is tremendous. Digital Art has given the notion
-          of “Art” a new meaning and almost a new definition. And by creating a platform 
-          for the Space that is supportive of contemporary artists,
-          articularly the smaller ones with neither Capital nor Attention, 
-          we can lay a foundation for future Generations.
-        </Text>
+        
         <br />
         
         <Text>
-          A platform for open and honest Discussions without fearing censorship
-          (Topics range from global economy to mental health). 
-          This Just the Start of an Odessey.
+        At the current stage, our NFT has 2 primary focuses: 
+
+        - Creating a Platform to educate on Web3
+        
+        - Building familiarity inside the network
+        
+        A platform that allows small artists in the NFT Space to gain more Attention and Recognition
         </Text>
+
+        <br />
+        
+        
+        <SubTitle>A platform for digital artists</SubTitle>
+        
+        
+        <Text>
+        We believe on an artistic level, NFT offers a lot of potential, especially its future potential is tremendous.
+        Digital Art has given the notion of “Art” a new meaning and almost a new definition. 
+        And by creating a platform for the Space that is supportive of contemporary artists,
+        particularly the smaller ones with neither Capital nor Attention, we can lay a foundation for future inspiration.
+        </Text>
+        
+        <Text>
+        Our Collection has a total of 500 NFTs<br />
+          <ul>
+           If you like what you’ve read and are willing to go alongside us on this journey, we welcome you to UNKNOWN MEN.
+           </ul>
+        </Text><br />
+
+        <br/>
+        <Text>The Future is in your Hands. Welcome to the Odessey of the Unknown Men.</Text>
+
       </Box>
     </Container>
   );
