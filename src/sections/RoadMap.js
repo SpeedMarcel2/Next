@@ -139,28 +139,26 @@ const RoadMap = () => {
         By developing and creating the community culture (Principles, Values and Standards). 
         
         Using Twitter through spaces, retweets and posts to give smaller artists not only a platform but also an Audience,
-        so they can go more in depth about their Art. 
+        so they can go more in depth about their Art.<Text>
 
         Web3 Education
-        
-        To build the necessary knowledge about Web3, we decided to use Discord.
+
+        </Text>To build the necessary knowledge about Web3, we decided to use Discord.
         We won't teach you, because we aren't some Web3 pros, neither are we equipped or qualified to teach you. But we developed an alternative, a concept that emphasizes collective learning and educating ourselves together as a group. Meaning, we learn together with you, not in a student/teacher relationship but more like a group of colleagues working on a project. 
 
         We call it the ant-hive concept (a pretty cool name by the way). 
-        How exactly does it work? - to know more about it and its function, check out our Twitter and follow us for more. 
-
-        <br />
+        How exactly does it work? - to know more about it and its function, check out our Twitter and follow us for more.<Text>
 
         Strengthening the Network
         
-        And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
+        </Text>And of course, we won't only talk about Web3. We want to use this platform to also talk about various topics, for everyone to be:
 
        - Up to date
        - Build a Network of great people
        - Being able to support each other beyond being solely focused on NFT to allow relationships to form, that can potentially hold for a lifetime
 
          On the other hand, we want to provide Digital-Artists with a platform, 
-         that helps them to spread their name and which offers them a space where they can go more in Depth about their Art. 
+         that helps them to spread their name and which offers them a space where they can go more in Depth about their Art.<Text></Text>
         
         </Text>
         <br />
